@@ -1,0 +1,26 @@
+.modalMainContainer {
+position: absolute ;
+top: 0;
+left: 0;
+background-color: rgba(128, 128, 128, 0.312);
+width: 100%;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.modalContainer{
+    background-color: white;
+    width: 50%;
+    height: auto;
+    max-height: 60vh;
+    padding: 20px;
+    border-radius: 5px;
+    overflow: scroll ;
+}
+
+.modelTitle{
+    text-align: center;
+
+}

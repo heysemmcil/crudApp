@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "id": "1667343639164",
+      "studentNumber": "101",
+      "name": "Nuri Sefa",
+      "lastName": "Ertas",
+      "stdClass": "11/A"
+    },
+    {
+      "id": "1667343709122",
+      "studentNumber": "102",
+      "name": "Ali",
+      "lastName": "Toronto",
+      "stdClass": "16/A"
+    },
+    {
+      "id": "1667346422831",
+      "studentNumber": "110",
+      "name": "Hakki",
+      "lastName": "Yilmaz",
+      "stdClass": "1/C"
+    }
+  ]
+}
